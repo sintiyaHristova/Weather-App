@@ -5,7 +5,7 @@ The project is a web application for checking meteorological conditions for a gi
 - HTML5;
 - CSS3;
 - JavaScript;
-- The application uses an API key from OpenWeatherMap;
+- Express.js (backend)
 
 ## Project Setup:
 - Installation: no special installations are required;
